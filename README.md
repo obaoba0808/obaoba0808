@@ -13,6 +13,14 @@ I build **budget travel guides** and **local service platforms** for the Asian m
 | **侑霖室內設計** | Tainan interior design & renovation services | [obaoba0808.github.io/Yulin-Design/](https://obaoba0808.github.io/Yulin-Design/) |
 | **爆甜水果行** | Fresh fruit delivery & gift boxes | [obaoba0808.github.io/Sweet-Burst-Fruits/](https://obaoba0808.github.io/Sweet-Burst-Fruits/) |
 
+### 📝 Travel Guides (GitHub Gists)
+
+- 🌏 [旅遊資源合集](https://gist.github.com/obaoba0808/4faf7157bfe0c075dd8370afc61cec8b) — 全站攻略索引
+- 🚄 [日本交通攻略懶人包](https://gist.github.com/obaoba0808/c4d9af91f916317a5781ff6a0799d77b) — JR Pass / ICOCA / 關西周遊券
+- 🇰🇷 [韓國旅遊省錢攻略](https://gist.github.com/obaoba0808/b5d8791df6613722055925ecaaaa7cb6) — 首爾釜山濟州島
+- 🇹🇼 [台灣旅遊攻略](https://gist.github.com/obaoba0808/05b0bbe29fd9317bc6ad194e1d93078d) — 花東台南墾丁
+- 🌴 [東南亞旅遊攻略](https://gist.github.com/obaoba0808/c56f1f6dd4445c46cdbf98a9f90f4186) — 清邁曼谷數位遊牧
+
 ### 🛠️ Tech Stack
 
 - **Frontend**: Tailwind CSS, GSAP, Anime.js
