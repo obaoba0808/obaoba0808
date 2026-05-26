@@ -15,20 +15,24 @@ I build **budget travel guides** and **local service platforms** for the Asian m
 
 ### 📝 Travel Guides (GitHub Gists)
 
-- 🌏 [Asia Budget Travel Tips 2026](https://gist.github.com/obaoba0808/b1cde7afffb4a06b4000b15d578eda15) — 全區攻略總覽
+- 🌍 [Asia Budget Travel Tips 2026](https://gist.github.com/obaoba0808/4faf7157bfe0c075dd8370afc61cec8b) — 全區攻略總覽
 - 🚄 [Japan Budget Guide 2026](https://gist.github.com/obaoba0808/202f700aa18c5ea238c3ab472387ca57) — 日本省錢攻略
 - 🇰🇷 [Korea Budget Travel 2026](https://gist.github.com/obaoba0808/9c0e72279c0971b1378d50458949fa40) — 韓國省錢攻略
-- 🌴 [SE Asia Backpacking Cheat Sheet](https://gist.github.com/obaoba0808/4c6e26cf4a7248ee05529ecab34208fd) — 東南亞背包客速查
-- 🌏 [旅遊資源合集](https://gist.github.com/obaoba0808/4faf7157bfe0c075dd8370afc61cec8b) — 全站攻略索引
-- 🚄 [日本交通攻略懶人包](https://gist.github.com/obaoba0808/c4d9af91f916317a5781ff6a0799d77b) — JR Pass / ICOCA / 關西周遊券
+- 🏝️ [SE Asia Backpacking Cheat Sheet](https://gist.github.com/obaoba0808/4c6e26cf4a7248ee05529ecab34208fd) — 東南亞背包客速查
+- 🗺️ [旅遊資源合集](https://gist.github.com/obaoba0808/4faf7157bfe0c075dd8370afc61cec8b) — 全站攻略索引
+- 🚃 [日本交通攻略懶人包](https://gist.github.com/obaoba0808/c4d9af91f916317a5781ff6a0799d77b) — JR Pass / ICOCA / 關西周遊券
 - 🇰🇷 [韓國旅遊省錢攻略](https://gist.github.com/obaoba0808/b5d8791df6613722055925ecaaaa7cb6) — 首爾釜山濟州島
 - 🇹🇼 [台灣旅遊攻略](https://gist.github.com/obaoba0808/05b0bbe29fd9317bc6ad194e1d93078d) — 花東台南墾丁
 - 🌴 [東南亞旅遊攻略](https://gist.github.com/obaoba0808/c56f1f6dd4445c46cdbf98a9f90f4186) — 清邁曼谷數位遊牧
+- 🇹🇼 [台灣美食攻略 2026](https://gist.github.com/obaoba0808/fb14b5bd9b36c5c7fdf9ef0476e4fdbe) — 夜市美食與小吃推薦
+- ♨️ [日本溫泉攻略 2026](https://gist.github.com/obaoba0808/e29575c43ea548743a825855e29c2127) — 溫泉推薦與禮儀
+- 💻 [東南亞數位遊牧攻略 2026](https://gist.github.com/obaoba0808/23a6d4d7ac49424a7c1677839d36bd59) — 清邁峇里島胡志明市
 
 ### 📦 Open Source Repos
 
 - 📚 [asia-travel-guides](https://github.com/obaoba0808/asia-travel-guides) — 亞洲旅行攻略目錄（含 PDF）
 - 🛠️ [travel-tools-opensource](https://github.com/obaoba0808/travel-tools-opensource) — 免費旅行工具合集
+- 🗺️ [Travel-Lab](https://github.com/obaoba0808/Travel-Lab) — 旅遊攻略與工具資源庫
 
 ### 🛠️ Tech Stack
 
