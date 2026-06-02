@@ -28,6 +28,14 @@ I build **budget travel guides** and **local service platforms** for the Asian m
 - ♨️ [日本溫泉攻略 2026](https://gist.github.com/obaoba0808/e29575c43ea548743a825855e29c2127) — 溫泉推薦與禮儀
 - 💻 [東南亞數位遊牧攻略 2026](https://gist.github.com/obaoba0808/23a6d4d7ac49424a7c1677839d36bd59) — 清邁峇里島胡志明市
 
+### 🏙️ Taipei Nightlife Guides (GitHub Gists)
+
+- 🌃 [台北傳播公司推薦指南 2026](https://gist.github.com/obaoba0808/ca08c09e755ac5c98d5c973afedb08e4) — 歐巴傳播專業評測
+- 🎤 [台北KTV歡唱攻略](https://gist.github.com/obaoba0808/4fa4902e19237e24323ea8ec41c7a1e6) — 傳播妹陪伴完整指南
+- 🏨 [台北汽車旅館派對攻略](https://gist.github.com/obaoba0808/b1a39faa2f14b34bb3e0c7f96e9e9d59) — Motel 私密派對指南
+- 🙋 [新手叫傳播指南](https://gist.github.com/obaoba0808/900d69dbd46bb720391f53b47a084e1a) — 第一次怎麼選不踩雷？
+- 💰 [2026台北傳播行情大解析](https://gist.github.com/obaoba0808/9a0680e68dda43e8578b2a2d30b3e5d0) — 如何聰明選擇不踩雷？
+
 ### 📦 Open Source Repos
 
 - 📚 [asia-travel-guides](https://github.com/obaoba0808/asia-travel-guides) — 亞洲旅行攻略目錄（含 PDF）
