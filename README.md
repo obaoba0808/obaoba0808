@@ -12,6 +12,7 @@ I build **budget travel guides** and **local service platforms** for the Asian m
 | **歐巴傳播** | Taipei nightlife & entertainment service platform | [obaoba0808.github.io/FH/](https://obaoba0808.github.io/FH/) |
 | **侑霖室內設計** | Tainan interior design & renovation services | [obaoba0808.github.io/Yulin-Design/](https://obaoba0808.github.io/Yulin-Design/) |
 | **爆甜水果行** | Fresh fruit delivery & gift boxes | [obaoba0808.github.io/Sweet-Burst-Fruits/](https://obaoba0808.github.io/Sweet-Burst-Fruits/) |
+| **代謝Quick** | 代謝健康保健品牌 — 植物來源成分配方 | [metabolism-quick.com](https://metabolism-quick.com/) |
 
 ### 📝 Travel Guides (GitHub Gists)
 
